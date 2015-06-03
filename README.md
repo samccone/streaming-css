@@ -21,4 +21,4 @@ node server.js
 
 * For Vanilla CSS
 
-`localhost:8000/slow-large.html`
+`http://localhost:8000/slow-large.html`
